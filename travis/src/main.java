@@ -18,6 +18,7 @@ public class main {
         System.out.println("hola mundo");
         System.out.println("hello world");
         int num ;
+        int num2;
     }
     
 }
